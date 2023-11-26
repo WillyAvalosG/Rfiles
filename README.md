@@ -1,7 +1,7 @@
 ![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
+<h1 align="center">Hola 👋, Soy WILLY AVALOS</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
 
