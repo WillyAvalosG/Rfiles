@@ -1,6 +1,3 @@
-![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
-
-<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center"> WILLY AVALOS GARCIA </h1>
 <h3 align="center"> Supply Chain Management e Inteligencia Artificial </h3>
 
