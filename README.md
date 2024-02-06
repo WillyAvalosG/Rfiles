@@ -1,17 +1,17 @@
 ![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy WILLY AVALOS</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center"> WILLY AVALOS GARCIA </h1>
+<h3 align="center"> Supply Chain Management e Inteligencia Artificial </h3>
 
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN FASELOGISTICS ORACLE TRANSPORTATION MANAGEMENT OTM
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO MASTER INDUSTRIA CONECTADA 4.0
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
-
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN AQUÍ
+  
+- 📫 PUEDES CONTACTARME AQUI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
