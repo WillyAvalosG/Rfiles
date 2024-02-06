@@ -18,7 +18,7 @@
 <a href="https://codepen.io/url-de-codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" /></a>
 <a href="https://dev.to/url-de-devto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" /></a>
 <a href="https://twitter.com/url-de-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/url-de-linkedin](https://www.linkedin.com/in/avalosgarcia/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avalosgarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avalosgarcia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
